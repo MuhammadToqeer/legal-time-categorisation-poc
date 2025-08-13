@@ -1,0 +1,25 @@
+# Environments
+.venv/
+env/
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models (keep local only)
+data/
+models/
+reports/figures/
+
+# Logs
+*.log
+
+# OS cruft
+.DS_Store
+Thumbs.db
